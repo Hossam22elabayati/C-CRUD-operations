@@ -1,0 +1,12 @@
+H:\project winform osama\products system\products system\bin\Debug\products system.exe.config
+H:\project winform osama\products system\products system\bin\Debug\products system.exe
+H:\project winform osama\products system\products system\bin\Debug\products system.pdb
+H:\project winform osama\products system\products system\obj\Debug\products system.csproj.AssemblyReference.cache
+H:\project winform osama\products system\products system\obj\Debug\products_system.Form1.resources
+H:\project winform osama\products system\products system\obj\Debug\products_system.Properties.Resources.resources
+H:\project winform osama\products system\products system\obj\Debug\products system.csproj.GenerateResource.cache
+H:\project winform osama\products system\products system\obj\Debug\products system.csproj.CoreCompileInputs.cache
+H:\project winform osama\products system\products system\obj\Debug\products system.exe
+H:\project winform osama\products system\products system\obj\Debug\products system.pdb
+H:\project winform osama\products system\products system\obj\Debug\products_system.Form2.resources
+H:\project winform osama\products system\products system\obj\Debug\products_system.Form3.resources
